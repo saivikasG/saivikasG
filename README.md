@@ -1,4 +1,4 @@
-===========================API Documentation==================
+======================================API Documentation=======================
 
 API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API..<br><br>An API allows one piece of software talk to another. An API is analogous to a power outlet. Without a power outlet, what would you have to do to power your laptop?
 
